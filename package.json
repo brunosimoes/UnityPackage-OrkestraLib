@@ -1,0 +1,17 @@
+{
+  "name": "org.vicomtech.orkestralib",
+  "displayName": "OrkestraLib",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "This is a package for using SocketIO in Unity",
+  "dependencies": {
+    "eu.brunosimoes.h.sockets": "0.1.0-preview"
+  },
+  "samples": [
+    {
+      "displayName": "Example",
+      "description": "SocketIO sample",
+      "path": "Samples~/Example"
+    }
+  ]
+}
